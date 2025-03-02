@@ -1,4 +1,4 @@
-![Eli Bennett - Software Developer]([https://your-image-url.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQFPEcNTUX7fyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725899901614?e=1746662400&v=beta&t=Pcp7RFNHpwMFpkBSnJKYKP30SKnFXJzMHRVrcm_GYpM))
+![Eli Bennett - Software Developer](keepitsimpleimage.jpeg)
 
 # 👋 Hey there! I'm Eli Bennett
 
