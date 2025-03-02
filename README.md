@@ -10,7 +10,7 @@
 ---
 
 ## 🔥 **GitHub Stats**
-![Eli's GitHub Contribution Snake](https://github.com/EliBennett/EliBennett/blob/output/github-contribution-grid-snake.svg)  
+![Eli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EliBennett&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliBennett&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EliBennett&theme=tokyonight)  
 
