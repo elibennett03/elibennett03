@@ -10,9 +10,11 @@
 ---
 
 ## 🔥 **GitHub Stats**
-![Eli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elibennett03&theme=github) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elibennett03&layout=compact&theme=rogue)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elibennett03&theme=gruvbox)  
+![Eli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elibennett03&theme=xcode) 
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibennett03&layout=compact&theme=redical" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=elibennett03&theme=react-dark" />
+</div> 
 
 ---
 
