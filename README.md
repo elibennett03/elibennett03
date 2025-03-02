@@ -1,19 +1,19 @@
 ![Eli Bennett - Software Developer](keepitsimpleimage.jpeg)
 
-# 👋 Hey there! I'm Eli Bennett
+# Hey! I'm Eli Bennett.
 
-🚀 **Software Developer | Cybersecurity Enthusiast | Cloud & Backend Expert**  
+🚀 **Flutter & Firebase Developer | Mobile & Web App Enthusiast**  
 🎓 **Vice President, Software Development Club at Tennessee Tech**  
-💻 **Building the TTU Quality of Life App & Smart Parking System**  
-🎮 **Developing a Roblox game with Lua**  
+💻 **Building TTU Mobile & the Smart Parking System**  
+🎮 **Developing a Roblox game with Lua**   
 
 ---
 
 ## 🔥 **GitHub Stats**
 ![Eli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elibennett03&theme=rogue) 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibennett03&layout=compact&theme=redical" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=elibennett03&theme=react-dark" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibennett03&layout=compact&theme=rogue" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=elibennett03&theme=rogue" />
 </div> 
 
 ---
@@ -49,12 +49,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛡️ **Cybersecurity**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF4A00.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-4EAA25.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ### 🎮 **Game Development**
 ![Roblox](https://img.shields.io/badge/Roblox-000000.svg?style=for-the-badge&logo=roblox&logoColor=white)
