@@ -12,8 +12,8 @@
 ## 🔥 **GitHub Stats**
 ![Eli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elibennett03&theme=rogue) 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibennett03&layout=compact&theme=rogue" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=elibennett03&theme=rogue" />
+  <img height="180px" src="![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=elibennett03&theme=rogue)" />
+  <img height="180px" src="![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elibennett03&show_icons=true&theme=rogue)" />
 </div> 
 
 ---
