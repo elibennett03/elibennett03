@@ -10,10 +10,11 @@
 ---
 
 ## 🔥 **GitHub Stats**
-![Eli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elibennett03&theme=rogue) 
+![Eli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elibennett03&theme=rogue)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elibennett03)](https://git.io/streak-stats)
 <div align="center">
   <img height="180px" src="https://github-readme-streak-stats.vercel.app/?user=elibennett03&theme=rogue" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=elibennett03&show_icons=true&theme=rogue" />
+  <img height="180px" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" />
 </div> 
 
 ---
