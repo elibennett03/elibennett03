@@ -2,8 +2,7 @@
 
 # Hey! I'm Eli Bennett.
 
-🚀 **Flutter & Firebase Developer | Mobile & Web App Enthusiast**  
-🎓 **Vice President, Software Development Club at Tennessee Tech**  
+🚀 **Flutter & Firebase Developer | Mobile & Web App Enthusiast**   
 💻 **Building TTU Mobile & the Smart Parking System**  
 🎮 **Developing a Roblox game with Lua**   
 
@@ -53,9 +52,9 @@
 ---
 
 ## 📫 **Get in Touch**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/eli-bennett-208730320/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eligbennett03@gmail.com)  
 
 ---
 
