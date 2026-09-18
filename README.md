@@ -1,8 +1,8 @@
 ![Eli Bennett - Software Developer](keepitsimpleimage.jpeg)
 # Hey! I'm Eli Bennett.
-🚀 **Flutter & Firebase Developer | Mobile & Web App Enthusiast**   
-💻 **Building TTU Mobile & the Smart Parking System**  
-🎮 **Developing a Roblox game with Lua**   
+🚀 **Full-Stack Developer**
+💻 **Building AI-powered tools for compliance & document review automation**
+🎓 **Final-year Computer Science student**
 ---
 ## 🔥 **GitHub Stats**
 ![Eli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elibennett03&theme=rogue)
@@ -38,6 +38,10 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![Amazon CloudFront](https://img.shields.io/badge/CloudFront-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/IAM-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🛢️ **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,8 +67,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ---
 ## 📫 **Get in Touch**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-bennett-208730320/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eligbennett03@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-bennett-208730320/)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eligbennett03@gmail.com)
 ---
 🚀 **Thanks for stopping by! Feel free to check out my repositories and connect!** 🎯
