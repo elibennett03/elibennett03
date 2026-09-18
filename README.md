@@ -1,7 +1,11 @@
 ![Eli Bennett - Software Developer](keepitsimpleimage.jpeg)
+
 # Hey! I'm Eli Bennett.
+
 **Full-Stack Developer**
+
 Building AI-powered tools for appraisal compliance and document review automation.
+
 ---
 ## 🔥 **GitHub Stats**
 ![Eli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elibennett03&theme=rogue)
