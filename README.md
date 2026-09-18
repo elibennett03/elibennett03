@@ -1,5 +1,5 @@
 ![Eli Bennett - Software Developer](keepitsimpleimage.jpeg)
-#Hey! I'm Eli Bennett.
+# Hey! I'm Eli Bennett.
 **Full-Stack Developer**
 **Building AI-powered tools for appraisal compliance and document review automation.**
 ---
