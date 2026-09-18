@@ -1,8 +1,7 @@
 ![Eli Bennett - Software Developer](keepitsimpleimage.jpeg)
 # Hey! I'm Eli Bennett.
-🚀 **Full-Stack Developer**
-💻 **Building AI-powered tools for compliance & document review automation**
-🎓 **Final-year Computer Science student**
+**Full-Stack Developer**
+Building AI-powered tools for appraisal compliance and document review automation.
 ---
 ## 🔥 **GitHub Stats**
 ![Eli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elibennett03&theme=rogue)
@@ -70,4 +69,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-bennett-208730320/)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eligbennett03@gmail.com)
 ---
-🚀 **Thanks for stopping by! Feel free to check out my repositories and connect!** 🎯
+Thanks for stopping by! Feel free to check out my repositories and connect.
